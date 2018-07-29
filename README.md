@@ -17,9 +17,11 @@ This is a simple MERN stack boilerplate.
 
 
 ## Start Development
+Complete MongoURI in config/keys.js.
+Then:
 ```shell
 $ npm install
-$ npm client-install
+$ npm run client-install
 $ npm run dev
 ```
 
